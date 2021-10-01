@@ -3,7 +3,7 @@
 I am trying to become a backend developer.
 </br>
 
-Take it slow and steady and you will surely succeed!
+I believe that if you work hard, you can achieve your goals.
 </br>
 
 #### 🛠 Tech Stack 
